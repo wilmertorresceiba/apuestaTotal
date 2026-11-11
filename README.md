@@ -1,4 +1,4 @@
-# Entregables para Apuesta Total
+# Apuesta Total
 
 Entregas de Ceiba Software para Apuesta Total.
 
